@@ -1,0 +1,8 @@
++ semantic-release@18.0.1
+added 541 packages from 271 contributors and audited 580 packages in 116.889s
+
+42 packages are looking for funding
+  run `npm fund` for details
+
+found 16 moderate severity vulnerabilities
+  run `npm audit fix` to fix them, or `npm audit` for details
