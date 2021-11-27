@@ -1,8 +1,11 @@
 name: Releases
 on:
+  pull_request:
+    branches:
+      - master
   push:
     branches:
-      - main
+      - master
 
 jobs:
   changelog:
